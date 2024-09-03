@@ -1,0 +1,10 @@
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\bin\Debug\Urna Eletronica.exe.config
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\bin\Debug\Urna Eletronica.exe
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\bin\Debug\Urna Eletronica.pdb
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\obj\Debug\Urna Eletronica.csproj.AssemblyReference.cache
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\obj\Debug\Urna_Eletronica.Form1.resources
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\obj\Debug\Urna_Eletronica.Properties.Resources.resources
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\obj\Debug\Urna Eletronica.csproj.GenerateResource.cache
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\obj\Debug\Urna Eletronica.csproj.CoreCompileInputs.cache
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\obj\Debug\Urna Eletronica.exe
+C:\Users\minat\source\repos\Urna Eletronica\Urna Eletronica\obj\Debug\Urna Eletronica.pdb
